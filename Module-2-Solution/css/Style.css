@@ -1,17 +1,17 @@
 body {
-    font-family: cursive;
+    font-family: helvetica;
     box-sizing: border-box;
 }
 
 header {
-    text-align: center;
+    text-align: right;
     padding: 20px;
     font-size: 20px;
 }
 
 .container {
     display: flex;
-    align-items: center;
+    align-items: right;
     justify-content: space-between;
 }
 
